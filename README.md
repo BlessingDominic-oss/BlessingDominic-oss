@@ -1,4 +1,7 @@
-<h1>Hi, I'm Blessing, an <a href="https://www.linkedin.com/in/blessing-nze-2a7051174?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Blessing, an <a href="https://www.linkedin.com/in/blessing-nze-2a7051174?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"</a> IT and Cybersecurity Project Portfolio 🔐
+
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
