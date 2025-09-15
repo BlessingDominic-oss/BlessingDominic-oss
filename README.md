@@ -34,7 +34,7 @@
 
 <h2>⚠️ Vulnerability Management Projects</h2>
 <ul>
-  <li><a href="https://github.com/joshcybertest/vulnerability-management-program"><b>Vulnerability Management Program Implementation</b></a></li>
+  <li><a href="https://github.com/BlessingDominic-oss/Project-Vulnerability-Management"><b>Vulnerability Management Program Implementation</b></a></li>
   <li><a href="https://github.com/joshcybertest/programmatic-vulnerability-remediations"><b>Programmatic Vulnerability Remediations (PowerShell & BASH)</b></a></li>
 </ul>
 
