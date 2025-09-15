@@ -1,30 +1,59 @@
-<h1>Hi, I'm Blessing, an <a href="https://www.linkedin.com/in/blessing-nze-2a7051174?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"</a> IT and Cybersecurity Project Portfolio 🔐
+<h1>Hi, I'm Blessing 👋</h1>
+<p>
+  Welcome to my <strong>IT & Cybersecurity Project Portfolio 🔐</strong>.  
+  I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects.  
+  From vulnerability management to threat detection, my work explores the ever-evolving landscape of cybersecurity.  
+  Please feel free to check out my projects and see how I’ve contributed to enhancing security operations and processes!
+</p>
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+<h2>👨‍💻 Information Technology Projects</h2>
 
+<ul>
+  <li><b>osTicket (Help Desk Ticketing System)</b>
+    <ul>
+      <li><a href="https://github.com/BlessingDominic-oss/osticket-prereqs-cleanversion">osTicket: Prerequisites and Installation</a></li>
+      <li><a href="https://github.com/BlessingDominic-oss/post-install-config">osTicket: Post-Installation Configuration</a></li>
+      <li><a href="https://github.com/BlessingDominic-oss/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
+    </ul>
+  </li>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+  <li><b>Microsoft Azure</b>
+    <ul>
+      <li><a href="https://github.com/BlessingDominic-oss/Creating-VMs-Azure">Creating Windows and Linux Virtual Machines in the Cloud</a></li>
+      <li><a href="https://github.com/BlessingDominic-oss/Setting-Up-A-VPN">VPN Setup in a Virtual Machine</a></li>
+      <li><a href="https://github.com/BlessingDominic-oss/azure-network-protocols">Network Security Groups (NSGs) & Inspecting Protocols with Wireshark</a></li>
+    </ul>
+  </li>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/BlessingDominic-oss/osticket-prereqs-cleanversion)
-  - [osTicket: Post-Installation Configuration](https://github.com/BlessingDominic-oss/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/BlessingDominic-oss/ticket-lifecycle)
-    
-- <b>Microsoft Azure</b>
-  - [Creating a Windows and Linux Virtual Machine in the Cloud](https://github.com/BlessingDominic-oss/Creating-VMs-Azure)
-   - [VPN Setup in Virtual Machine ](https://github.com/BlessingDominic-oss/Setting-Up-A-VPN)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/BlessingDominic-oss/azure-network-protocols)
- 
- - <b>Active Directory</b>
-   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BlessingDominic-oss/configure-ad)
+  <li><b>Active Directory</b>
+    <ul>
+      <li><a href="https://github.com/BlessingDominic-oss/configure-ad">Configuring On-Premises Active Directory within Azure VMs</a></li>
+    </ul>
+  </li>
+</ul>
 
+<h2>⚠️ Vulnerability Management Projects</h2>
+<ul>
+  <li><a href="https://github.com/joshcybertest/vulnerability-management-program"><b>Vulnerability Management Program Implementation</b></a></li>
+  <li><a href="https://github.com/joshcybertest/programmatic-vulnerability-remediations"><b>Programmatic Vulnerability Remediations (PowerShell & BASH)</b></a></li>
+</ul>
 
-<h2>🤳Connect with me:</h2>
+<h2>🚨 Threat Hunting and Security Operations</h2>
+<ul>
+  <li><a href="https://github.com/joshmadakor0/threat-hunting-scenario-tor"><b>Threat Hunting Scenario (Tor Browser Usage)</b></a></li>
+</ul>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<hr/>
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+<h2>🤳 Connect with me</h2>
+<p>
+  <a href="https://twitter.com/Josh" target="_blank">
+    <img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/blessing-nze-2a7051174" target="_blank">
+    <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+</p>
